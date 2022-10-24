@@ -6,4 +6,4 @@ Tugas Pertemuan 5 Pemrograman Orientasi Objek
 Mendeklarasikan class Person, dengan
 atribut Nama, JenisKelamin, Umur dan
 lengkapi dengan access modifier.
-[Gambar 1](SS.png)
+![Gambar 1](Screenshot/SS.png)
